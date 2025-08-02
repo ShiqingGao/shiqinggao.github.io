@@ -40,7 +40,7 @@ I have published multiple papers at the top international AI conferences such as
 <!-- [**Project**](hhttps://github.com/ShiqingGao/MICE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral</div><img src='images/mice_poster_thumbnail.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="color:blue">**ICML 2025**</span> · <span style="color:#e67300"><strong>Oral (Top 1%)</strong></span> · <span style="color:#1a75ff"><em>First Author</em></span> · May 2025  
@@ -57,7 +57,7 @@ I have published multiple papers at the top international AI conferences such as
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/evo_poster_thumbnail.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="color:blue">**ICML 2025**</span> · <span style="color:#1a75ff"><em>First Author</em></span> · May 2025  
