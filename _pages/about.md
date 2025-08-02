@@ -29,7 +29,7 @@ I have published multiple papers at the top international AI conferences such as
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our paper was accepted to ICML 2025 as an <span style="color:blue">**Oral presentation** (*Top 1%*)</span>.
+- *2025.06*: &nbsp;🎉🎉 Our paper was accepted to ICML 2025 as an <span style="color:blue">**Oral presentation** (*Top 1%*)</span>.
 - *2025.05*: &nbsp;🎉🎉 Our paper is accepted by ICML 2025 as <span style="color:blue">**splotlight**</span>. 
 - *2025.05*: &nbsp;🎉🎉 Our paper is accepted by ICML 2025.
 - *2024.04*: &nbsp;🎉🎉 Our paper is accepted by IJCAI 2025. 
@@ -140,6 +140,10 @@ I have published multiple papers at the top international AI conferences such as
 
 
 # 💬 Invited Talks
+
+- ICML – Oral presentation at the Reinforcement Learning session.
+- IJCAI – Oral presentation at the Reinforcement Learning session.
+
 
 
 # 💻 Internships
