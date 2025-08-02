@@ -45,7 +45,7 @@ I have published multiple papers at the top international AI conferences such as
 
 <span style="color:blue">**ICML 2025**</span> · <span style="color:#e67300"><strong>Oral (Top 1%)</strong></span> · <span style="color:#1a75ff"><em>First Author</em></span> · May 2025  
 [Controlling Underestimation Bias in Constrained Reinforcement Learning for Safe Exploration](https://openreview.net/pdf?id=nq5bt0mRTC), **Shiqing Gao**, et al.
-[**Code**](hhttps://github.com/ShiqingGao/MICE).
+[**Code**](https://github.com/ShiqingGao/MICE).
 
 - Proposed the **Memory-driven Intrinsic Cost Estimation (MICE)** algorithm to mitigate value underestimation in constrained RL. 
 - Utilizes a memory module to record high-risk regions, generate intrinsic costs, and apply an **extrinsic–intrinsic cost update scheme**, significantly reducing violations while preserving policy performance. 
@@ -62,7 +62,7 @@ I have published multiple papers at the top international AI conferences such as
 
 <span style="color:blue">**ICML 2025**</span> · <span style="color:#1a75ff"><em>First Author</em></span> · May 2025  
 [Extreme Value Policy Optimization for Safe Reinforcement Learning](https://openreview.net/pdf?id=3aC94m0wbF), **Shiqing Gao**, et al.
-[**Code**](hhttps://github.com/ShiqingGao/EVO).
+[**Code**](https://github.com/ShiqingGao/EVO).
 
 - Introduced **Extreme Value Policy Optimization (EVO)** based on **Extreme Value Theory (EVT)** to explicitly model tail extreme events. 
 - Developed an **extreme value quantile constraint** and an **extreme-value-prioritized replay** mechanism to leverage rare events in policy updates, reducing violation probability. 
@@ -80,7 +80,7 @@ I have published multiple papers at the top international AI conferences such as
 
 <span style="color:blue">**IJCAI 2024**</span> · <span style="color:#1a75ff"><em>First Author</em></span> · Apr. 2024  
 [Exterior Penalty Policy Optimization with Penalty Metric Network under Constraints](https://www.ijcai.org/proceedings/2024/443), **Shiqing Gao**, et al.
-[**Code**](hhttps://github.com/ShiqingGao/EPOPMN).
+[**Code**](https://github.com/ShiqingGao/EPOPMN).
 
 - Developed an efficient **first-order exterior penalty optimization (EPO)** algorithm with a **penalty metric network** to capture policy-space penalties. 
 - Introduced an **surrogate penalty function** within a trust region to balance reward and constraint satisfaction.
