@@ -75,7 +75,7 @@ I have published multiple papers at the top international AI conferences such as
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/EPO_poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="color:blue">**IJCAI 2024**</span> · <span style="color:#1a75ff"><em>First Author</em></span> · Apr. 2024  
@@ -93,7 +93,7 @@ I have published multiple papers at the top international AI conferences such as
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing</div><img src='images/MBDPG_poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="color:blue">**Neurocomputing (JCR Q1)**</span> · <span style="color:#1a75ff"><em>First Author</em></span> · Apr. 2022  
@@ -109,7 +109,7 @@ I have published multiple papers at the top international AI conferences such as
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCMA</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OCMA</div><img src='images/OCMA_poster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="color:blue">**Ocean & Coastal Management (JCR Q1)**</span> · <span style="color:#1a75ff"><em>First Author</em></span> · Feb. 2022  
